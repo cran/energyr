@@ -1,5 +1,5 @@
 Package: energyr
-Version: 0.1.0
+Version: 0.1.1
 Title: Data Published by the United States Federal Energy Regulatory
         Commission
 Description: Data published by the United States Federal Energy Regulatory Commission including
@@ -15,8 +15,8 @@ License: Apache License
 LazyData: TRUE
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-07-24 14:35:27 UTC; paulgovan
+Packaged: 2016-09-23 16:38:38 UTC; paulgovan
 Author: Paul Govan [aut, cre]
 Maintainer: Paul Govan <pgovan1@aggienetwork.com>
 Repository: CRAN
-Date/Publication: 2016-07-24 17:25:11
+Date/Publication: 2016-09-24 12:53:53
