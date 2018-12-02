@@ -1,6 +1,6 @@
-15bc1528ac51369358f7d35f143ee64c *DESCRIPTION
+fa35110467e473c6846e56c9d0258cb5 *DESCRIPTION
 b277976e7ce4c9826ad0596542c4d46d *NAMESPACE
-58ef03ee93870880ebf1d5b7531ba1c3 *NEWS.md
+e1743eecf4221e6050850423957529fa *NEWS.md
 288151b9fb741e43e880c0a2fafd180a *R/electric.R
 4dd4cc75ba2acd92294b0fb60dd5184c *R/energyr.R
 f80d4c941f4b49f1229deda9fc254dd0 *R/gas.R
@@ -9,7 +9,7 @@ ffde3e77b735fb32cc4711a1b63f8154 *R/lng.R
 25bfe36e7bf0468a6d61f01437f5d47c *R/oil.R
 690c40b2a0f027737fd20fde3213aeb8 *R/pipeline.R
 e8e83a8fedc89da38f44ad0cd9faf24c *R/storage.R
-a6dafc0e125d42b98c82996c9c742598 *README.md
+8fde0ffd8c15a30eff405b70552e7f7a *README.md
 4ebf8e79d0367424af40129d4a2651e2 *data/electric.rda
 d7a85c4db640d24916b896e03dacf877 *data/gas.rda
 661217eaa6e99bb210692b942d35940b *data/hydropower.rda
@@ -31,11 +31,11 @@ ebb090ed5b7286ef3ff1e2e4caaf4d93 *inst/extdata/oil.R
 26ef1230cd4352c2ed83953fcc388b23 *inst/extdata/pipeline.csv
 a482e223069aac124abce2c3f4fa7224 *inst/extdata/storage.R
 53a1b54d71acd194187a3f31cf214848 *inst/extdata/storage.csv
-5296d977927920a4cadcacbfae3c0fca *man/electric.Rd
+e8da7a7c495e4c72028b3edd7646de82 *man/electric.Rd
 6bbae9a2c01632fae1cfa118219bf8fd *man/energyr.Rd
-caa3be4d6c240aa9451db037b1461188 *man/gas.Rd
-68ebd9b0fa11a42f886a6eb32d73950e *man/hydropower.Rd
-e2f0ec60ac8f4eee4a3e8d818ae44038 *man/lng.Rd
-43c751c24b12f4df72a69c842c1605a4 *man/oil.Rd
-89801b7371ffdcffd47bbc7605e8a7f2 *man/pipeline.Rd
-a7a9a9f19b476793f52acbb80972d40a *man/storage.Rd
+52c945409378a9e09910bc6c471ee45b *man/gas.Rd
+c8fe7a6ac5e947b547967c10b01deef6 *man/hydropower.Rd
+14533ef883b236a8a9ba9e973478ea9b *man/lng.Rd
+309505b6ed415d1b90cbcfb51b109186 *man/oil.Rd
+fe1a19ed29a94ef05b33d032222ddd35 *man/pipeline.Rd
+3a0c9ec92f358baa3e0874953cdc379a *man/storage.Rd
