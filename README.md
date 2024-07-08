@@ -1,11 +1,12 @@
-![](http://www.r-pkg.org/badges/version/energyr)
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/energyr)](https://CRAN.R-project.org/package=energyr)
 ![](http://cranlogs.r-pkg.org/badges/grand-total/energyr)
-![](https://travis-ci.org/paulgovan/energyr.svg?branch=master)
-[![Rdoc](http://www.rdocumentation.org/badges/version/energyr)](http://www.rdocumentation.org/packages/energyr) 
+![](http://cranlogs.r-pkg.org/badges/energyr)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1145429.svg)](https://doi.org/10.5281/zenodo.1145429)
+<!-- badges: end -->
 
 # Overview
-energyr is an [R](https://www.r-project.org) package containing data published by the United States Federal Energy Regulatory Commission (FERC) [www.ferc.gov](https://www.ferc.gov). energyr is also the package used for [eAnalytics](http://paulgovan.github.io/eAnalytics/). To learn more about our project, check out [doi.org/10.5334/jors.144](http://doi.org/10.5334/jors.144).
+energyr is an [R](https://www.r-project.org) package containing data published by the United States Federal Energy Regulatory Commission (FERC) [www.ferc.gov](https://www.ferc.gov). energyr is also the package used for [eAnalytics](https://paulgovan.github.io/eAnalytics/). To learn more about this project, check out this [paper](https://doi.org/10.5334/jors.144).
 
 # Data
 * `electric`: Electric Company Financial Data
@@ -23,11 +24,8 @@ To install energyr in R:
 install.packages("energyr")
 ```
 
-Or to install the developmental version:
+Or to install the development version:
 
 ```S
 devtools::install_github('paulgovan/energyr')
 ```
-
-# License
-energyr is licensed under the [Apache](http://www.apache.org/licenses/LICENSE-2.0) licence. &copy; Paul Govan (2015)
